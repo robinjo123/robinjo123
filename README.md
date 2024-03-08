@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robin Jo Varghese</h1>
 <h3 align="center">Passionate CS Engineering student on a journey of endless code and creativity!!</h3>
-<img align="right" alt="Codinhttps://github.com/rudrabarad/Gifs"">
+<img align="right" alt="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 - 📫 How to reach me **robinjovarghese007@gmail.com**
 
